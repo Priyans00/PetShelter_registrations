@@ -1,6 +1,6 @@
 # Lab 5: Static Code Analysis — Animal Shelter Adoption Register
 
-**Your file:** `pet_shelter.py`
+Your file: `pet_shelter.py`
 
 Follow the lab handout for the full instructions.
 
